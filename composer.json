@@ -1,0 +1,17 @@
+{
+    "name": "jefferson/recaptcha",
+    "autoload": {
+        "psr-4": {
+            "Recaptcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jefferson Silva",
+            "homepage": "https://github.com/jefferson-jscode"
+        }
+    ],
+    "require": {
+      "ext-curl": "*"
+    }
+}
